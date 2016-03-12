@@ -1,0 +1,32 @@
+.user-header{
+    background: #D2D2D2;
+    height:300px;
+}
+
+.primary-color{
+    color: #ffa405;
+}
+
+.nav-end{
+    margin-right: 10px;
+}
+
+.last-nav-ul{
+    margin-left: 10px;
+    border-left: 1px solid #D2D2D2;
+    padding-left: 10px;
+
+}
+
+.page-scroll{
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+
+.navbar-default_new .nav li a:hover, .navbar-default_new .nav li a:focus{
+    background: #ffa405;
+    color: white;
+    border-radius: 5px;
+}
