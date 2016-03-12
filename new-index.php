@@ -100,16 +100,31 @@
                     <div class="row">
                         <div class="col-lg-4 portfolio-item">
                             <div class="offer-top">
-                                <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
-                                    <div class="portfolio-hover">
-                                        <div class="portfolio-hover-content">
-                                            <i class="glyphicon glyphicon-eye-open"></i> view offer
+
+                                <div>
+                                    <a href="#" class="portfolio-link remove-margin shadow">
+                                        <div class="portfolio-hover">
+                                            <div class="portfolio-hover-content">
+                                                <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                            </div>
                                         </div>
-                                    </div>
-                                    <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
-                                </a>
+                                        <div>
+                                            <div class="triangle-topright offer-count">
+                                                <div>
+                                                    <p class="offer-count-value">23</p>
+                                                    <p class="offer-count-left">left</p>
+                                                </div>
+                                            </div>
+                                            <div class="offer-hover">
+                                                <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                                            </div>
+                                        </div>
+                                    </a>
+
                                 <div class="portfolio-caption remove-margin shadow">
                                     <a href="#">Sample offer title goes here as a link</a>
+                                </div>
+
                                 </div>
                             </div>
                         </div>

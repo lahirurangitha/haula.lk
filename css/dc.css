@@ -131,3 +131,38 @@ a,a:hover, a:focus, a:active, a.active{
 .offer-top{
 
 }
+
+.triangle-topright {
+    width: 0;
+    height: 0;
+    border-top: 120px solid #ff293a;
+    border-left: 120px solid transparent;
+    position: absolute;
+    left: 180px;
+
+}
+
+.offer-hover{
+    position: absolute;
+    z-index: -1;
+}
+
+.offer-count p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.offer-count-value{
+    position: absolute;
+    font-size: 3.1em;
+    top: -135px;
+    left: -52px;
+}
+
+.offer-count-left{
+    position: absolute;
+    font-size: 1.1em;
+    top: -90px;
+    left: -40px;
+}
