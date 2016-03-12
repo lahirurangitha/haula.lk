@@ -46,7 +46,41 @@
     <div class="row">
         <!-- left side bar -->
         <div class="col-lg-3 col-md-3 col-xs-12 col-sm-12">
+            <div class="row">
+                <div class="col-lg-offset-2 col-lg-8">
+                    <div class="left-side-link">
+                        <a href="#" class="site-link">
+                            <div class="left-panel-link">
+                                Joined List
+                            </div>
+                        </a>
+                    </div>
 
+                    <div class="left-side-link">
+                        <a href="#" class="site-link">
+                            <div class="left-panel-link">
+                                Wish List
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="left-side-link">
+                        <a href="#" class="site-link">
+                            <div class="left-panel-link">
+                                Subscriptions
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="left-side-link">
+                        <a href="#" class="site-link">
+                            <div class="left-panel-link">
+                                My History
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- right main side bar -->
@@ -57,6 +91,7 @@
                 <li><a data-toggle="tab" href="#menu2">New Offers</a></li>
                 <li><a data-toggle="tab" href="#menu1">Featured</a></li>
                 <li><a data-toggle="tab" href="#menu2">Trending</a></li>
+                <li><a data-toggle="tab" href="#menu2">Enging Soon</a></li>
             </ul>
 
             <div class="tab-content">
