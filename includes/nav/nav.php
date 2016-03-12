@@ -20,16 +20,16 @@
                     <a href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">Categories</a>
+                    <a class="page-scroll" href="#categories">Categories</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">Contact</a>
+                    <a class="page-scroll" href="#contact">Contact</a>
                 </li>
                 <li class="nav-end">
                     <a class="page-scroll" href="#about">About</a>
                 </li>
                 <li class="last-nav-ul">
-                    <a class="page-scroll" href="#team">SignIn</a>
+                    <a class="page-scroll" href="#signin">SignIn</a>
                 </li>
 
             </ul>
