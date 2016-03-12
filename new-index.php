@@ -45,7 +45,7 @@
 
     <div class="row">
         <!-- left side bar -->
-        <div class="col-lg-3 col-md-3 col-xs-12 col-sm-12">
+        <div class="col-lg-2 col-md-2 col-xs-12 col-sm-12">
             <div class="row">
                 <div class="col-lg-offset-2 col-lg-8">
                     <div class="left-side-link">
@@ -59,7 +59,7 @@
                     <div class="left-side-link">
                         <a href="#" class="site-link">
                             <div class="left-panel-link">
-                                Wish List
+                                Watch List
                             </div>
                         </a>
                     </div>
@@ -91,13 +91,155 @@
                 <li><a data-toggle="tab" href="#menu2">New Offers</a></li>
                 <li><a data-toggle="tab" href="#menu1">Featured</a></li>
                 <li><a data-toggle="tab" href="#menu2">Trending</a></li>
-                <li><a data-toggle="tab" href="#menu2">Enging Soon</a></li>
+                <li><a data-toggle="tab" href="#menu2">Ending Soon</a></li>
             </ul>
 
-            <div class="tab-content">
+            <div id="portfolio" class="tab-content offer-view-all">
                 <div id="home" class="tab-pane fade in active">
-                    <h3>HOME</h3>
-                    <p>Some content.</p>
+
+                    <div class="row">
+                        <div class="col-lg-4 portfolio-item">
+                            <div class="offer-top">
+                                <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                        </div>
+                                    </div>
+                                    <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption remove-margin shadow">
+                                    <a href="#">Sample offer title goes here as a link</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 portfolio-item">
+                            <div class="offer-top">
+                                <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                        </div>
+                                    </div>
+                                    <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption remove-margin shadow">
+                                    <a href="#">Sample offer title goes here as a link</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 portfolio-item">
+                            <div class="offer-top">
+                                <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                        </div>
+                                    </div>
+                                    <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption remove-margin shadow">
+                                    <a href="#">Sample offer title goes here as a link</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-lg-4 portfolio-item">
+                        <div class="offer-top">
+                            <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                            </a>
+                            <div class="portfolio-caption remove-margin shadow">
+                                <a href="#">Sample offer title goes here as a link</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 portfolio-item">
+                        <div class="offer-top">
+                            <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                            </a>
+                            <div class="portfolio-caption remove-margin shadow">
+                                <a href="#">Sample offer title goes here as a link</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 portfolio-item">
+                        <div class="offer-top">
+                            <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                            </a>
+                            <div class="portfolio-caption remove-margin shadow">
+                                <a href="#">Sample offer title goes here as a link</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                    <div class="row">
+                    <div class="col-lg-4 portfolio-item">
+                        <div class="offer-top">
+                            <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                            </a>
+                            <div class="portfolio-caption remove-margin shadow">
+                                <a href="#">Sample offer title goes here as a link</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 portfolio-item">
+                        <div class="offer-top">
+                            <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                            </a>
+                            <div class="portfolio-caption remove-margin shadow">
+                                <a href="#">Sample offer title goes here as a link</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 portfolio-item">
+                        <div class="offer-top">
+                            <a href="#" class="portfolio-link remove-margin shadow" data-toggle="modal">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <i class="glyphicon glyphicon-eye-open"></i> view offer
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                            </a>
+                            <div class="portfolio-caption remove-margin shadow">
+                                <a href="#">Sample offer title goes here as a link</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 </div>
                 <div id="menu1" class="tab-pane fade">
                     <h3>Menu 1</h3>

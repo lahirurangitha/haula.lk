@@ -1,3 +1,7 @@
+body{
+    background: rgba(208, 207, 207, 0.15)
+}
+
 a,a:hover, a:focus, a:active, a.active{
     text-decoration: none;
     -webkit-transition: all 100ms ease-in;
@@ -12,7 +16,7 @@ a,a:hover, a:focus, a:active, a.active{
 }
 
 .primary-color{
-    color: #ffa405;
+    color: #FF8F05;
 }
 
 .nav-end{
@@ -34,25 +38,32 @@ a,a:hover, a:focus, a:active, a.active{
 }
 
 .navbar-default_new .nav li a:hover, .navbar-default_new .nav li a:focus{
-    background: #ffa405;
-    color: white;
+    background: #FF8F05;
     border-radius: 5px;
+    color: white
+}
+
+.navbar-default_new .navbar-nav>.active>a{
+    background: #FF8F05;
 }
 
 .main-body{
     margin-top: 120px;
 }
 
-.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
-    background: transparent;
-    border-bottom: 2px solid #ffa405;
-    border-radius: 0px;
+.nav-pills>li>a{
     color: #222;
 }
 
-.nav-pills>li>a:hover{
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+    background: #FF8F05;
     color: white;
-    background: #ffa405;
+    border-bottom: none;
+}
+
+.nav-pills>li>a:hover{
+    background: #ebebeb;
+
 }
 
 .left-panel-link {
@@ -62,10 +73,61 @@ a,a:hover, a:focus, a:active, a.active{
     -moz-transition: all 200ms ease-in-out;
     -o-transition: all 200ms ease-in-out;
     transition: all 200ms ease-in-out;
+    border-radius: 5px;
 }
 
 .left-panel-link:hover{
-    background: #ffa405;
-    border-radius: 5px;
+    background: #FF8F05;
     color: white;
+}
+
+.offer-view-all{
+    margin-top: 10px;
+}
+
+.offer-item{
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover{
+    background: rgba(255,143,5,0.9);
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content{
+    color: #222;
+}
+
+#portfolio .portfolio-item .portfolio-caption{
+    background: white;
+}
+
+.shadow{
+    -webkit-box-shadow: 0px 0px 15px 0px #989797;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    0px 0px 15px 0px #989797;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         0px 0px 15px 0px #989797;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.portfolio-caption a{
+    color: #FF8F05;
+}
+
+.portfolio-caption a:hover{
+    color: #b2b2b2;
+}
+
+#portfolio .portfolio-item .portfolio-caption{
+    max-height: 100px;
+}
+
+.remove-margin{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin: 0;
+}
+
+.offer-top{
+
 }
