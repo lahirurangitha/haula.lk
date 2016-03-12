@@ -132,10 +132,20 @@ a,a:hover, a:focus, a:active, a.active{
 
 }
 
-.triangle-topright {
+.triangle-topright-high {
     width: 0;
     height: 0;
     border-top: 120px solid #ff293a;
+    border-left: 120px solid transparent;
+    position: absolute;
+    left: 180px;
+
+}
+
+.triangle-topright-low {
+    width: 0;
+    height: 0;
+    border-top: 120px solid #61C736;
     border-left: 120px solid transparent;
     position: absolute;
     left: 180px;
@@ -162,7 +172,26 @@ a,a:hover, a:focus, a:active, a.active{
 
 .offer-count-left{
     position: absolute;
-    font-size: 1.1em;
-    top: -90px;
-    left: -40px;
+    font-size: 1.3em;
+    top: -80px;
+    left: -32px;
+
+}
+
+.offer-hover-icon{
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.offer-hover-text{
+    margin-left: 0px;
+    padding-left: 0px;
+    text-align: left;
+}
+
+.navbar-brand>img {
+    display: block;
+    width: 200px;
+    position: relative;
+    top: -80px;
 }
