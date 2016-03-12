@@ -1,3 +1,10 @@
+a{
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+
 .user-header{
     background: #D2D2D2;
     height:300px;
@@ -29,4 +36,20 @@
     background: #ffa405;
     color: white;
     border-radius: 5px;
+}
+
+.main-body{
+    margin-top: 120px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+    background: transparent;
+    border-bottom: 2px solid #ffa405;
+    border-radius: 0px;
+    color: #222;
+}
+
+.nav-pills>li>a:hover{
+    color: white;
+    background: #ffa405;
 }
