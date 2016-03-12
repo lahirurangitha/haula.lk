@@ -23,6 +23,7 @@
 
     <!-- dhanushka -->
     <link href="css/dc.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
 
     <!-- End of inmport -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -49,7 +50,11 @@
 
         <!-- right main side bar -->
         <?php @include_once 'includes/fragments/right-side-bar.php'?>
+
+
     </div>
+    <!-- footer -->
+    <?php @include_once  'includes/fragments/footer.php'?>
 
 </div>
 

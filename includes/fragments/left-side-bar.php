@@ -34,4 +34,16 @@
             </div>
         </div>
     </div>
+    <!-- advertisements -->
+    <div class="row ad-image">
+        <div class="col-lg-offset-2 col-lg-8">
+            <img src="img/sliders/tv/tv_add2.jpg">
+        </div>
+    </div>
+
+    <div class="row ad-image">
+        <div class="col-lg-offset-2 col-lg-8">
+            <img src="img/sliders/tv/tv_add5.jpg">
+        </div>
+    </div>
 </div>

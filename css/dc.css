@@ -195,3 +195,28 @@ a,a:hover, a:focus, a:active, a.active{
     position: relative;
     top: -20px;
 }
+
+footer{
+    margin-top: 20px;
+    background: white;
+    -webkit-box-shadow: 0px 0px 15px 0px #989797;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    0px 0px 15px 0px #989797;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         0px 0px 15px 0px #989797;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    padding-top: 30px;
+}
+
+footer a{
+    color: #FF8F05;
+}
+
+footer a:hover{
+    color: #D2D2D2;
+}
+
+.social-buttons li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.ad-image{
+    margin-top: 10px;
+}

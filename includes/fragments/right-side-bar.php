@@ -16,19 +16,19 @@
                                     <div class="portfolio-hover-content">
 
                                         <div class="row">
-                                            <div class="col-lg-offset-3 col-lg-2 offer-hover-icon">
+                                            <div class="col-lg-offset-3 col-lg-2 col-md-offset-3 col-md-2 col-sm-4 col-xs-offset-3 col-xs-2 offer-hover-icon">
                                                 <i class="glyphicon glyphicon-user"></i>
                                             </div>
-                                            <div class="col-lg-6 offer-hover-text">
+                                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 offer-hover-text">
                                                 13 out of 25
                                             </div>
                                         </div>
 
                                         <div class="row">
-                                            <div class="col-lg-offset-3 col-lg-2 offer-hover-icon">
+                                            <div class="col-lg-offset-3 col-lg-2 col-md-offset-3 col-md-2 col-sm-4 col-xs-offset-3 col-xs-2 offer-hover-icon">
                                                 <i class="glyphicon glyphicon-gift"></i>
                                             </div>
-                                            <div class="col-lg-6 offer-hover-text">
+                                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 offer-hover-text">
                                                 25% discount
                                             </div>
                                         </div>
